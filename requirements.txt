@@ -1,0 +1,4 @@
+Flask==2.3.3
+psutil==5.9.6
+openai==0.28.1
+colorama==0.4.6
